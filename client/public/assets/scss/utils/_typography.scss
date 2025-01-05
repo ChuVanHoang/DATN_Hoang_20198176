@@ -1,0 +1,30 @@
+
+// font url
+
+$font-url: 'https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;0,900;1,500&display=swap';
+
+// font family
+$font-family: (
+    'ff': (
+        'body': "'Roboto', sans-serif",
+        'heading': "'Roboto', sans-serif",
+        'p': "'Roboto', sans-serif",
+        'jost': "'Roboto', sans-serif",
+        'fontawesome': '"Font Awesome 6 Pro"',
+        'roboto': "'Roboto', sans-serif",
+        'oregano': "'Oregano', cursive",
+        'charm': "'Roboto', sans-serif",
+    )
+);
+
+
+
+// font size
+$font-size: (
+    'fz': (
+        'body': 14px,
+        'p': 14px,
+    )
+);
+
+
